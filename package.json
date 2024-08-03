@@ -1,0 +1,39 @@
+{
+  "name": "FantasyTheme",
+  "displayName": "Fantasy theme",
+  "description": "A set of amazing theme to write and teach code",
+  "version": "0.1.0",
+  "publisher": "Pradeep Sahu, credit : hiteshchoudharycode",
+  "icon": "images/chai.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PradeepSahhu"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "best dark theme",
+    "coder theme",
+    "Pradeep Sahu"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Devil",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-devil.json"
+      },
+      {
+        "label": "Light Angel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/light-angel.json"
+      }
+    ]
+  }
+}
