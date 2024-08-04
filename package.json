@@ -1,8 +1,8 @@
 {
   "name": "FantasyTheme",
-  "displayName": "Fantasy theme",
+  "displayName": "Calm Dark Blue theme",
   "description": "A set of amazing theme to write and teach code",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "publisher": "vs-code-theme",
   "icon": "images/logo.png",
   "repository": {
