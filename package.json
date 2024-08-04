@@ -7,7 +7,7 @@
   "icon": "images/logo.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/PradeepSahhu"
+    "url": "https://github.com/PradeepSahhu/vscode-theme-blue.git"
   },
   "engines": {
     "vscode": "^1.60.0"
