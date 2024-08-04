@@ -8,7 +8,7 @@ This theme is designed keeping in mind that there are lots of teachers who teach
 
 It took me around 1 year to analyse all these issues and finally publish this theme.
 
-## Dark Chai
+## Dark Devil
 
 ![Dark Theme](/images/dark-devil.png)
 
