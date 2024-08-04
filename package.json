@@ -3,7 +3,7 @@
   "displayName": "Fantasy theme",
   "description": "A set of amazing theme to write and teach code",
   "version": "0.1.0",
-  "publisher": "Pradeep Sahu, credit : hiteshchoudharycode",
+  "publisher": "vs-code-theme",
   "icon": "images/logo.png",
   "repository": {
     "type": "git",
