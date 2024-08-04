@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-There are 2 versions of this theme
-
 - **Dark Devil** (what I use)
 - **Light Angel** (these coders still exists)
 
